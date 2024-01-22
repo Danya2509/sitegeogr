@@ -93,7 +93,6 @@ img:nth-child(4){animation-delay:0}
 }
 .post-1 p {
   padding: 10
-  color: white
 }
 .scale {
   padding: 10px;
@@ -164,4 +163,3 @@ footer p:hover  {
     background-color: red; /* Цвет подчеркивания при появлении линии*/
     transition: width 0.5s;  /* Время эффекта */
 }
-
