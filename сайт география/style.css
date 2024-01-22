@@ -163,3 +163,6 @@ footer p:hover  {
     background-color: red; /* Цвет подчеркивания при появлении линии*/
     transition: width 0.5s;  /* Время эффекта */
 }
+.post-1 p {
+	color: white
+}
