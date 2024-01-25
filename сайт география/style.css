@@ -93,6 +93,7 @@ img:nth-child(4){animation-delay:0}
 }
 .post-1 p {
   padding: 10
+  color: white
 }
 .scale {
   padding: 10px;
